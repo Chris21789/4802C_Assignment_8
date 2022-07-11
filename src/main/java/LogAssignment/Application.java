@@ -2,6 +2,8 @@ package LogAssignment;
 
 import java.util.logging.Level;
 
+import static java.lang.Math.pow;
+
 public class Application extends LogClass{
 
     public void Application (int v) {
@@ -9,15 +11,15 @@ public class Application extends LogClass{
 
         try {
             for (a = v; a <= 100; a++){
-                int b = a - 1;
-                int c = a / b;
-                LGR.log(Level.INFO, "For a/(a-1) = b, if a equals " + a + " than c equals " + c + "\n");
+                int b = (int) Math.pow(a, 3);
+                int c = b / a;
+                LGR.log(Level.INFO, "For a^3/a = b, if a equals " + a + " than b equals " + c + "\n");
             }
 
         } catch (Exception e) {
             LGR.log(Level.SEVERE, "Exception: " + e + "\n");
             LGR.log(Level.WARNING, "Continuing for loop \n");
-            Application(2);
+            Application(1);
         }
 
     }

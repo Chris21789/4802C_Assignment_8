@@ -6,7 +6,7 @@ import java.util.logging.*;
 public class LogClass {
     public static final Logger LGR = Logger.getLogger(Logger.GLOBAL_LOGGER_NAME);
 
-    public static void logInit(String fileName) {
+    public static void logInit() {
         ConsoleHandler CH;
         FileHandler FH;
 
@@ -15,18 +15,28 @@ public class LogClass {
             LGR.setLevel(Level.ALL);
 
             CH = new ConsoleHandler();
-            CH.setLevel(Level.ALL);
+            CH.setLevel(Level.WARNING);
             LGR.addHandler(CH);
 
-            File file = new File(fileName);
-            if (!file.exists()) {
-                file.createNewFile();
+            File fullLogs = new File("log.txt");
+            if (!fullLogs.exists()) {
+                fullLogs.createNewFile();
             }
 
-            FH = new FileHandler(fileName, true);
+            File parsedLogs = new File("parsed-log.txt");
+            if (!parsedLogs.exists()) {
+                parsedLogs.createNewFile();
+            }
+
+            FH = new FileHandler("log.txt", true);
             FH.setLevel(Level.ALL);
             LGR.addHandler(FH);
             SimpleFormatter formatter = new SimpleFormatter();
+            FH.setFormatter(formatter);
+
+            FH = new FileHandler("parsed-log.txt", true);
+            FH.setLevel(Level.WARNING);
+            LGR.addHandler(FH);
             FH.setFormatter(formatter);
 
             LGR.info("Logger Started \n");

@@ -5,8 +5,8 @@ public class Main {
         LogClass LC = new LogClass();
         Application APP = new Application();
 
-        LC.logInit("log.txt");
+        LC.logInit();
         APP.Application(0);
-        LC.LGR.info("Program finished and log written to file \n");
+        LC.LGR.warning("Program finished and logs written to files \n");
     }
 }
