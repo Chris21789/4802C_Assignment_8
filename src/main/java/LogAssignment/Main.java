@@ -1,25 +1,12 @@
 package LogAssignment;
 
-import java.io.IOException;
-import java.util.logging.Level;
-
-import static LogAssignment.LogClass.LGR;
-import static LogAssignment.LogClass.logInit;
-
 public class Main {
     public static void main(String[] args) {
+        LogClass LC = new LogClass();
+        Application APP = new Application();
 
-        logInit("log.txt");
-
-        try {
-            int a =10/0;
-
-        } catch (Exception e) {
-            LGR.log(Level.ALL, "Exception:", e);
-        }
-
-        LGR.info("Program finished");
-
+        LC.logInit("log.txt");
+        APP.Application(0);
+        LC.LGR.info("Program finished and log written to file \n");
     }
-
 }

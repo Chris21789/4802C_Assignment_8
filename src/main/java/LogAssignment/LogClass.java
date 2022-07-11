@@ -1,7 +1,6 @@
 package LogAssignment;
 
 import java.io.File;
-import java.io.IOException;
 import java.util.logging.*;
 
 public class LogClass {
@@ -30,7 +29,7 @@ public class LogClass {
             SimpleFormatter formatter = new SimpleFormatter();
             FH.setFormatter(formatter);
 
-            LGR.info("Logger Started");
+            LGR.info("Logger Started \n");
 
         } catch (Exception e) {
             LGR.log(Level.ALL, "Exception:", e);
