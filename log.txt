@@ -4,3 +4,9 @@ Jul 10, 2022 11:01:50 PM LogAssignment.Main main
 WARNING: Warning msg
 Jul 10, 2022 11:01:50 PM LogAssignment.Main main
 SEVERE: severe msg
+Jul 10, 2022 11:04:58 PM LogAssignment.Main main
+INFO: Info msg
+Jul 10, 2022 11:04:58 PM LogAssignment.Main main
+WARNING: Warning msg
+Jul 10, 2022 11:04:58 PM LogAssignment.Main main
+SEVERE: severe msg

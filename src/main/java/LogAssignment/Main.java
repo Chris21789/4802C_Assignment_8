@@ -8,8 +8,6 @@ public class Main {
         try {
             LogClass Log = new LogClass("log.txt");
 
-            Log.LGR.setLevel(Level.ALL);
-
             Log.LGR.info("Info msg");
             Log.LGR.warning("Warning msg");
             Log.LGR.severe("severe msg");
