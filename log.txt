@@ -10,3 +10,40 @@ Jul 10, 2022 11:04:58 PM LogAssignment.Main main
 WARNING: Warning msg
 Jul 10, 2022 11:04:58 PM LogAssignment.Main main
 SEVERE: severe msg
+Jul 10, 2022 11:30:53 PM LogAssignment.Main main
+WARNING: Exception : :
+java.lang.ArithmeticException: / by zero
+	at LogAssignment.Main.main(Main.java:14)
+
+Jul 10, 2022 11:32:16 PM LogAssignment.Main main
+WARNING: Exception : :
+java.lang.ArithmeticException: / by zero
+	at LogAssignment.Main.main(Main.java:14)
+
+Jul 10, 2022 11:34:13 PM LogAssignment.LogClass logInit
+INFO: Logger Started
+Jul 10, 2022 11:34:13 PM LogAssignment.Main main
+WARNING: Exception : :
+java.lang.ArithmeticException: / by zero
+	at LogAssignment.Main.main(Main.java:14)
+
+Jul 10, 2022 11:34:13 PM LogAssignment.Main main
+INFO: Program finished
+Jul 10, 2022 11:35:29 PM LogAssignment.LogClass logInit
+INFO: Logger Started
+Jul 10, 2022 11:35:29 PM LogAssignment.Main main
+WARNING: Exception : :
+java.lang.ArithmeticException: / by zero
+	at LogAssignment.Main.main(Main.java:14)
+
+Jul 10, 2022 11:35:29 PM LogAssignment.Main main
+INFO: Program finished
+Jul 10, 2022 11:36:35 PM LogAssignment.LogClass logInit
+INFO: Logger Started
+Jul 10, 2022 11:36:35 PM LogAssignment.Main main
+ALL: Exception:
+java.lang.ArithmeticException: / by zero
+	at LogAssignment.Main.main(Main.java:15)
+
+Jul 10, 2022 11:36:35 PM LogAssignment.Main main
+INFO: Program finished

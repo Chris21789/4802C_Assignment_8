@@ -3,18 +3,22 @@ package LogAssignment;
 import java.io.IOException;
 import java.util.logging.Level;
 
+import static LogAssignment.LogClass.LGR;
+import static LogAssignment.LogClass.logInit;
+
 public class Main {
     public static void main(String[] args) {
+
+        logInit("log.txt");
+
         try {
-            LogClass Log = new LogClass("log.txt");
+            int a =10/0;
 
-            Log.LGR.info("Info msg");
-            Log.LGR.warning("Warning msg");
-            Log.LGR.severe("severe msg");
-
-        } catch (IOException e) {
-            throw new RuntimeException(e);
+        } catch (Exception e) {
+            LGR.log(Level.ALL, "Exception:", e);
         }
+
+        LGR.info("Program finished");
 
     }
 
