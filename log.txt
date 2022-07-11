@@ -1,0 +1,312 @@
+Jul 11, 2022 4:44:13 AM LogAssignment.LogClass logInit
+INFO: Logger Started 
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+SEVERE: Exception: java.lang.ArithmeticException: / by zero
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+WARNING: Continuing for loop 
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 1 than b equals 1
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 2 than b equals 4
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 3 than b equals 9
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 4 than b equals 16
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 5 than b equals 25
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 6 than b equals 36
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 7 than b equals 49
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 8 than b equals 64
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 9 than b equals 81
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 10 than b equals 100
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 11 than b equals 121
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 12 than b equals 144
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 13 than b equals 169
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 14 than b equals 196
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 15 than b equals 225
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 16 than b equals 256
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 17 than b equals 289
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 18 than b equals 324
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 19 than b equals 361
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 20 than b equals 400
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 21 than b equals 441
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 22 than b equals 484
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 23 than b equals 529
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 24 than b equals 576
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 25 than b equals 625
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 26 than b equals 676
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 27 than b equals 729
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 28 than b equals 784
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 29 than b equals 841
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 30 than b equals 900
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 31 than b equals 961
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 32 than b equals 1024
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 33 than b equals 1089
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 34 than b equals 1156
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 35 than b equals 1225
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 36 than b equals 1296
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 37 than b equals 1369
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 38 than b equals 1444
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 39 than b equals 1521
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 40 than b equals 1600
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 41 than b equals 1681
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 42 than b equals 1764
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 43 than b equals 1849
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 44 than b equals 1936
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 45 than b equals 2025
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 46 than b equals 2116
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 47 than b equals 2209
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 48 than b equals 2304
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 49 than b equals 2401
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 50 than b equals 2500
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 51 than b equals 2601
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 52 than b equals 2704
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 53 than b equals 2809
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 54 than b equals 2916
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 55 than b equals 3025
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 56 than b equals 3136
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 57 than b equals 3249
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 58 than b equals 3364
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 59 than b equals 3481
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 60 than b equals 3600
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 61 than b equals 3721
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 62 than b equals 3844
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 63 than b equals 3969
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 64 than b equals 4096
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 65 than b equals 4225
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 66 than b equals 4356
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 67 than b equals 4489
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 68 than b equals 4624
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 69 than b equals 4761
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 70 than b equals 4900
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 71 than b equals 5041
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 72 than b equals 5184
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 73 than b equals 5329
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 74 than b equals 5476
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 75 than b equals 5625
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 76 than b equals 5776
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 77 than b equals 5929
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 78 than b equals 6084
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 79 than b equals 6241
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 80 than b equals 6400
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 81 than b equals 6561
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 82 than b equals 6724
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 83 than b equals 6889
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 84 than b equals 7056
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 85 than b equals 7225
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 86 than b equals 7396
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 87 than b equals 7569
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 88 than b equals 7744
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 89 than b equals 7921
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 90 than b equals 8100
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 91 than b equals 8281
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 92 than b equals 8464
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 93 than b equals 8649
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 94 than b equals 8836
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 95 than b equals 9025
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 96 than b equals 9216
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 97 than b equals 9409
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 98 than b equals 9604
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 99 than b equals 9801
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+INFO: For a^3/a = b, if a equals 100 than b equals 10000
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Main main
+WARNING: Program finished and logs written to files 
+

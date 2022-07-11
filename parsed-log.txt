@@ -1,0 +1,9 @@
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+SEVERE: Exception: java.lang.ArithmeticException: / by zero
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Application Application
+WARNING: Continuing for loop 
+
+Jul 11, 2022 4:44:13 AM LogAssignment.Main main
+WARNING: Program finished and logs written to files 
+
